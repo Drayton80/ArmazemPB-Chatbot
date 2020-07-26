@@ -1,0 +1,705 @@
+positivo,afirmação
+humrum,afirmação
+aham,afirmação
+quero,afirmação
+conseguiu,afirmação
+claro,afirmação
+pode,afirmação
+claro que sim,afirmação
+gostaria sim,afirmação
+está sim,afirmação
+sou sim,afirmação
+s,afirmação
+é,afirmação
+posso,afirmação
+isso,afirmação
+lógico,afirmação
+sou,afirmação
+sim,afirmação
+pode sim,afirmação
+sim sim,afirmação
+sempre,afirmação
+está ok,afirmação
+Continuar,afirmação
+yes,afirmação
+quero sim,afirmação
+Alagoa Grande,Alagoa_Grande
+Alhandra,Alhandra
+quero alterar meu email,Alteracaoemail
+alterar email,Alteracaoemail
+alterar meu e-mail,Alteracaoemail
+email errado,Alteracaoemail
+O EMAIL DO MEU CADASTRO ESTA ERRADO GOSTARIA DE MUDAR,Alteracaoemail
+Troca de e-mail,Alteracaoemail
+Cadastrei o e-mail eradoo o que faço agora,Alteracaoemail
+Atualizar o e-mail,Alteracaoemail
+Eu fiz uma compra e na hora do cadastro errei o meu e-mail como faço pra modificar,Alteracaoemail
+Meu email p compra não estar dando certo,Alteracaoemail
+Confirmação de pagamento,Aprovacaopagamento
+já foi descontado o valor no meu cartão,Aprovacaopagamento
+quero saber pq meu pagamento não é aprovado logo,Aprovacaopagamento
+Eu comprei no saite quantos dias dura pra dá como pago?,Aprovacaopagamento
+Confirmação do pagamento,Aprovacaopagamento
+é sobre meu pagamento que já ta na minha fatura,Aprovacaopagamento
+o valor já foi descontado da minha fatura,Aprovacaopagamento
+se passou o cartão?,Aprovacaopagamento
+O valor já está na minha fatura,Aprovacaopagamento
+por que demora pra aprovar?,Aprovacaopagamento
+pagamento,Aprovacaopagamento
+Areia,Areia
+Atendimento Humano,AtendenteHumano
+Bahia,Bahia
+BA,Bahia
+Bayeux,Bayeux
+ajudando,Boas_vindas
+boa tarde,Boas_vindas
+Bom dia,Boas_vindas
+Oi,Boas_vindas
+Olá,Boas_vindas
+Oiiii,Boas_vindas
+e ae,Boas_vindas
+Fala aí,Boas_vindas
+boanoite,Boas_vindas
+boatarde,Boas_vindas
+bomdia,Boas_vindas
+Blz,Boas_vindas
+Oi Nice,Boas_vindas
+Olaaaa,Boas_vindas
+Oii,Boas_vindas
+hello,Boas_vindas
+E aí,Boas_vindas
+Boa noite,Boas_vindas
+i aí,Boas_vindas
+Nice??,Boas_vindas
+Oie,Boas_vindas
+segunda via boleto,Boleto
+boleto,Boleto
+Cabedelo,Cabedelo
+Cajazeiras,Cajazeiras
+CG,Campina_Grande
+Campina Grande,Campina_Grande
+Caruaru,Caruaru
+CE,Ceara
+Ceara,Ceara
+Ceará,Ceara
+FalseChatOnline,ChatOnlineF
+TrueChatOnline,ChatOnlineT
+Consultor,Consultor
+Consultor Humano,ConsultorHumano
+[0-9]{11},CPF
+[0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1} [0-9]{1},CPF
+[0-9]{3} [0-9]{3} [0-9]{3} [0-9]{2},CPF
+TrueCPFConsultado,CPF_Consultado
+FalseCPFConsultado,CPF_N_Consultado
+FalseCredito,CreditoInvalido
+TrueCredito,CreditoValido
+Cuite,Cuite
+Estou indo embora,Despedida
+valew,Despedida
+volto em breve,Despedida
+"Ok, volto depois",Despedida
+falow,Despedida
+não quero mais nada,Despedida
+xau xau,Despedida
+"Já me ajudou, obrigado",Despedida
+preciso sair daqui,Despedida
+valeu,Despedida
+xau,Despedida
+até logo,Despedida
+vlw,Despedida
+Obrigado,Despedida
+Obrigada!,Despedida
+flw,Despedida
+"obrigada, tchau.",Despedida
+tchau,Despedida
+obrigado pela atenção,Despedida
+Tchau_Despedida,Despedida_CPF_NaoLocalizado
+Tchau_Estado,Despedida_Estado_Invalido
+,Despedida_Status
+duvida,Duvidas
+duvidas,Duvidas
+não tenho nenhum status do meu pedido,DuvidasPedido
+não recebi nenhum email da minha compra,DuvidasPedido
+email,DuvidasPedido
+não tenho informações da minha compra,DuvidasPedido
+Qual foi a forma de pagamento,DuvidasPedido
+Esperança,Esperanca
+Esperanca,Esperanca
+FalseEstado,Estado_Invalido
+TrueEstado,Estado_Valido
+Mim da seu numero,FaleConosco
+falar com alguém,FaleConosco
+tendimento,FaleConosco
+me passa pra alguem por favor,FaleConosco
+estou tentando entrar em contato,FaleConosco
+Se tem algum número de telefone pra mim ligar ou algum e-mail,FaleConosco
+falar com uma pessoa,FaleConosco
+como faço pra falar com alguém que seja humano,FaleConosco
+atendente humano,FaleConosco
+ouvidoria,FaleConosco
+Telefone para reclamação,FaleConosco
+quero falar com uma pessoa de verdade,FaleConosco
+reclamação,FaleConosco
+Fale conosco,FaleConosco
+Preciso de um número do sac,FaleConosco
+posso pagar em dois cartões?,Formas_Pagamento
+quansi as formas de pagamento?,Formas_Pagamento
+como posso pagar?,Formas_Pagamento
+qual a forma de pagamento?,Formas_Pagamento
+vocês recebem quais cartões?,Formas_Pagamento
+vocês aceitam o cartão?,Formas_Pagamento
+Goiana,Goiana
+Guarabira,Guarabira
+Ico,Ico
+Icó,Ico
+Iguatu,Iguatu
+site,Informações_Cliente
+Como faço pra trocar meu email,Informações_Cliente
+editar email,Informações_Cliente
+editar perfil,Informações_Cliente
+Meu nome ta sujo,Informações_Cliente
+não consigo comprar no site,Informações_Cliente
+O que é endereço de faturamento?,Informações_Cliente
+quero comprar,Informações_Cliente
+cadastro,Informações_Cliente
+saite,Informações_Cliente
+não consigo fazer meu cadastro,Informações_Cliente
+problema no meu cadastro,Informações_Cliente
+confirmação do meu pedido para meu e mail,Informações_de_compras
+Mais 8 dias que fiz a comprar e até agora não chegou o e-mail para retirar,Informações_de_compras
+produtos,Informações_de_compras
+status,Informações_de_compras
+status do meu pedido pedido,Informações_de_compras
+Não tenho informação sobre meu pedido,Informações_de_compras
+quero saber sobre meu pedido,Informações_de_compras
+pedidos,Informações_de_compras
+quero saber sobre minha comrpa,Informações_de_compras
+quando meu produto vai chegar?,Informações_de_compras
+Sobre uma compra que fiz dia,Informações_de_compras
+peiddo,Informações_de_compras
+já posso pegar meu produto na loja?,Informações_de_compras
+"meu pagamento já foi autorizado, o que fazer?",Informações_de_compras
+fiz uma compra no aplicativo e não recebi email,Informações_de_compras
+pididu,Informações_de_compras
+pedido,Informações_de_compras
+pedidu,Informações_de_compras
+quero saber sobre meu pidido,Informações_de_compras
+pidido,Informações_de_compras
+"meu pagamento já foi autorizado, quando posso pegar meu produto?",Informações_de_compras
+minha compra,Informações_de_compras
+Quero saber como anda o meu pedido,Informações_de_compras
+preciso saber a data de confirmação do pedido,Informações_de_compras
+como ta meu pedido?,Informações_de_compras
+preciso saber a data de confirmação do pedido o980213,Informações_de_compras
+pagamento de pedido,Informações_de_compras
+Quando meu pedido será liberado para entrega,Informações_de_compras
+O meu pedido não tem na loja,Informações_de_compras
+Quero ver as compra que fiz,Informações_de_compras
+"Fiz uma compra no site de um celular, no cartão de crédito, hj recebi uma msg de estorno do pedido",Informações_de_compras
+peidido,Informações_de_compras
+produto,Informações_de_compras
+meu produto já está disponível para pegar?,Informações_de_compras
+Fiz uma compra de um celular para retirar na loja,Informações_de_compras
+situação do pedido,Informações_de_compras
+não recebi email do pedido,Informações_de_compras
+pedid,Informações_de_compras
+GOSTARIA DE SABER O NUMERO DO TELEFONE DA LOJA RUA JÕAO PESSOA,Informações_lojas
+email da loja,Informações_lojas
+TELEFONE LOJA CARUARU,Informações_lojas
+O armazem Paraíba de patos tem whatsapp?,Informações_lojas
+O armazem Paraíba de patos tem whatsapp,Informações_lojas
+Qual endereço da loja de Icó?,Informações_lojas
+Quero o endereço das lojas,Informações_lojas
+lojas lagoa,Informações_lojas
+qual o contato da loja da Lagoa,Informações_lojas
+quero saber sobre lojas,Informações_lojas
+Gostaria do número da loja de Irecê,Informações_lojas
+onde tem loja do armazém paraíba?,Informações_lojas
+Onde tem loja do armazém?,Informações_lojas
+lojas,Informações_lojas
+lojas do armazém paraíba,Informações_lojas
+Loja de Iguatu CE,Informações_lojas
+Qual o horário de funcionamento da loja da lagoa na semana,Informações_lojas
+TELEFONE,Informações_lojas
+loja,Informações_lojas
+onde tem loja?,Informações_lojas
+quais as filiais?,Informações_lojas
+Quando vai ser a Black Fiado de 2019,Informações_Produto
+onde tem o produto,Informações_Produto
+qual modelo de celular da samsung vocês vendem?,Informações_Produto
+Tablete Samsung,Informações_Produto
+lavadora,Informações_Produto
+cama box solteiro,Informações_Produto
+Tv 49 TV 49 polegadas,Informações_Produto
+Sofá 3 lugares,Informações_Produto
+Celular?,Informações_Produto
+O preço do site é o mesmo da loja física?,Informações_Produto
+Como faço pra ver os celulares disponíveis nas lojas ?,Informações_Produto
+Penteadeira,Informações_Produto
+Cor das TV 32 polgada,Informações_Produto
+Beliche,Informações_Produto
+Queria saber se vcs tem cômoda para bebê?,Informações_Produto
+Quero ver produtos,Informações_Produto
+qual o valor da,Informações_Produto
+Ver ofertas máquina de lavar,Informações_Produto
+UMA MEDIÇAO DE UMA COMODA,Informações_Produto
+Gostaria de comprar uma mesa maos não está disponível em minha cidade,Informações_Produto
+"Queria saber se ,depois que eu já retirei o smartphone da loja eu posso colocar o Seguro de roubo e furto!?",Informações_Produto
+PRODUTO SEM ESTOQUE,Informações_Produto
+Como funciona a garantia,Informações_Produto
+O balcão do link acima é pra quantas bocas?,Informações_Produto
+"Pq eu estou com uma tv na garantia, e ela apagou e nao que acente mais quando eu coloque ela na tomada ela estralou ,ai eu leveu ela na loja um rapaz falo que ia entra em contado mais ate agora nada",Informações_Produto
+TCL 32S6500S vem com o controle remoto com comando de voz,Informações_Produto
+Quero saber se tem tv em promoção no armazem paraiba de soledade,Informações_Produto
+cupom de desconto,Informações_Produto
+Os produtos já vem montados?,Informações_Produto
+"Vi um produto anunciado aqui no app em 10 x sem juros no cartão e qdo fui à loja comprar, o atendente disse q no cartão, tinha juros",Informações_Produto
+Balança digital,Informações_Produto
+quero saber o preço,Informações_Produto
+"Caixa Amplificada Mondial Connect Party CM-14 com Bluetooth, USB e Rádio FM - 400W",Informações_Produto
+Se o forno e automático,Informações_Produto
+O fogão e 400 a vista mas está aparecendo que e no cartão de crédito,Informações_Produto
+como me tornar fornecedor,Informações_Produto
+Geladeira,Informações_Produto
+Vende impressora Epson L365,Informações_Produto
+Rack retro,Informações_Produto
+Modelos de liquidificador,Informações_Produto
+Vocês vendem guarda roupa?,Informações_Produto
+Duvida sobre produtos,Informações_Produto
+tem produto,Informações_Produto
+Em quais lojas tem o produto?,Informações_Produto
+Tem esse produto na loja?,Informações_Produto
+Notebook,Informações_Produto
+quanto é o celular,Informações_Produto
+valor,Informações_Produto
+quanto custa o,Informações_Produto
+Colchao,Informações_Produto
+Computadores,Informações_Produto
+Se nas lojas em Joao Pessoa tem cama infantil tipo carro,Informações_Produto
+Vcs tem um movel com rodinhas e gavetas um movel auxiliar para estetica  Nice: Eu não entendi.,Informações_Produto
+preco,Informações_Produto
+Irece,Irece
+Irecê,Irece
+Itabaiana,Itabaiana
+Itambe,Itambe
+Itambé,Itambe
+Itaporanga,Itaporanga
+Jacobina,Jacobina
+João Dourado,Joao_Dourado
+Joao Dourado,Joao_Dourado
+onde tem loja em joão pessoa,Joao_Pessoa
+endereço aristides,Joao_Pessoa
+Aristides,Joao_Pessoa
+Santo Elias,Joao_Pessoa
+Onde fica a loja de Mangabeira,Joao_Pessoa
+Manaíra,Joao_Pessoa
+Barão,Joao_Pessoa
+Aristides Lobo,Joao_Pessoa
+Mangabeira Shopping,Joao_Pessoa
+contato lagoa,Joao_Pessoa
+Geisel,Joao_Pessoa
+lojas de João Pessoa,Joao_Pessoa
+loja lagoa,Joao_Pessoa
+Bancarios,Joao_Pessoa
+endereço loja lagoa,Joao_Pessoa
+telefone loja bancarios,Joao_Pessoa
+endereço da loja de Manaíra,Joao_Pessoa
+telefone da loja Manaíra,Joao_Pessoa
+lagoa,Joao_Pessoa
+Mangabeira,Joao_Pessoa
+telefone barao,Joao_Pessoa
+filial barão,Joao_Pessoa
+telefone do Mangabeira Shopping,Joao_Pessoa
+Lagoa Seca,Lagoa_Seca
+Mamanguape,Mamanguape
+Monteiro,Monteiro
+e quem sabe?,NaoSeiPedido
+Não tenho!,NaoSeiPedido
+sei nao,NaoSeiPedido
+nao sei,NaoSeiPedido
+nunca nem vi,NaoSeiPedido
+sei não,NaoSeiPedido
+tenho não,NaoSeiPedido
+esqueci,NaoSeiPedido
+Código de rastreamento,NaoSeiPedido
+não tenho,NaoSeiPedido
+não sei,NaoSeiPedido
+sei la,NaoSeiPedido
+nhão,negação
+nao,negação
+nunca,negação
+n,negação
+not,negação
+não quero,negação
+quero não,negação
+no,negação
+não,negação
+jamais,negação
+burra,Negative_Feedback
+Você é uma piada,Negative_Feedback
+merda,Negative_Feedback
+Você é chata?,Negative_Feedback
+Você é ruim hein,Negative_Feedback
+"Tchau, vagabunda.",Negative_Feedback
+Sua mãe.,Negative_Feedback
+"Porra, como posso falar com uma pessoa real?",Negative_Feedback
+Seja boa uma vez na vida.,Negative_Feedback
+sexo,Negative_Feedback
+Você é burra,Negative_Feedback
+ridícula,Negative_Feedback
+Por que você é retardada?,Negative_Feedback
+Jumenta,Negative_Feedback
+Fresca,Negative_Feedback
+Feia,Negative_Feedback
+chata,Negative_Feedback
+vai tomar no,Negative_Feedback
+Idiota,Negative_Feedback
+Vá se foder!,Negative_Feedback
+"Uma experiência horrível, com certeza!",Negative_Feedback
+Todo mundo te odeia.,Negative_Feedback
+tua mãe de vende?,Negative_Feedback
+Vá para o inferno!,Negative_Feedback
+Vá para a puta que pariu!,Negative_Feedback
+vc não sabe de nada,Negative_Feedback
+Comó fazer um massacre,Negative_Feedback
+Vagabunda,Negative_Feedback
+Você não vale nada,Negative_Feedback
+nota,NotaFiscal
+nota fiscal,NotaFiscal
+OpenTicket,openticket
+Minas Gerais,Outros_estados_cidade
+Belo Horizonte,Outros_estados_cidade
+Pará,Outros_estados_cidade
+Belém,Outros_estados_cidade
+Paraná,Outros_estados_cidade
+Curitiba,Outros_estados_cidade
+Campo Grande,Outros_estados_cidade
+Espírito Santo,Outros_estados_cidade
+Vitória,Outros_estados_cidade
+Goiás,Outros_estados_cidade
+Goiânia,Outros_estados_cidade
+Brasília,Outros_estados_cidade
+Distrito Federal,Outros_estados_cidade
+Amazonas,Outros_estados_cidade
+Macapá,Outros_estados_cidade
+Mato Grosso,Outros_estados_cidade
+Manaus,Outros_estados_cidade
+Cuiabá,Outros_estados_cidade
+Mato Grosso do Sul,Outros_estados_cidade
+Teresina,Outros_estados_cidade
+RJ,Outros_estados_cidade
+PR,Outros_estados_cidade
+GO,Outros_estados_cidade
+AC,Outros_estados_cidade
+MA,Outros_estados_cidade
+PI,Outros_estados_cidade
+TO,Outros_estados_cidade
+Rio Grande do Norte,Outros_estados_cidade
+AM,Outros_estados_cidade
+DF,Outros_estados_cidade
+AL,Outros_estados_cidade
+Fortaleza,Outros_estados_cidade
+Salvador,Outros_estados_cidade
+Recife,Outros_estados_cidade
+tem loja em,Outros_estados_cidade
+onde tem loja no Maranhão?,Outros_estados_cidade
+Palmas,Outros_estados_cidade
+RN,Outros_estados_cidade
+Maranhão,Outros_estados_cidade
+Rio Grande do Sul,Outros_estados_cidade
+Porto Alegre,Outros_estados_cidade
+Rondônia,Outros_estados_cidade
+Porto Velho,Outros_estados_cidade
+Roraima,Outros_estados_cidade
+Boa Vista,Outros_estados_cidade
+Santa Catarina,Outros_estados_cidade
+Florianópolis,Outros_estados_cidade
+São Paulo,Outros_estados_cidade
+São Luís,Outros_estados_cidade
+Sergipe,Outros_estados_cidade
+Aracaju,Outros_estados_cidade
+Tocantins,Outros_estados_cidade
+SP,Outros_estados_cidade
+Amapá,Outros_estados_cidade
+Maceió,Outros_estados_cidade
+Alagoas,Outros_estados_cidade
+Natal,Outros_estados_cidade
+Rio Branco,Outros_estados_cidade
+Acre,Outros_estados_cidade
+Piauí,Outros_estados_cidade
+Rio de Janeiro,Outros_estados_cidade
+limite do meu cartao,OutrosGruposClaudino
+Como eu faço para negociar minha conta no paraiba,OutrosGruposClaudino
+Na compra pelo site aceitam o cartão da loja Armazém Paraíba,OutrosGruposClaudino
+Se posso realizar compra online utilizando o meu cartão de crédito Paraíba,OutrosGruposClaudino
+Quero saber como faço um cartão?,OutrosGruposClaudino
+cartão paraiba,OutrosGruposClaudino
+bacabal,OutrosGruposClaudino
+minha fatura,OutrosGruposClaudino
+fatura,OutrosGruposClaudino
+Limite cartão,OutrosGruposClaudino
+SABER SE MEU CARTÃO ESTA FAZENDO COMPRAS,OutrosGruposClaudino
+na cidade de Canaa dos Carajas PA,OutrosGruposClaudino
+O que é preciso para abrir um crediário?,PagamentoCarne
+Quero abri um creditado na loja,PagamentoCarne
+Posso fazer minha análise de crédito por aqui,PagamentoCarne
+pagar divida,PagamentoCarne
+posso conpra pela internete e pagar nu carnei,PagamentoCarne
+Qual a documentação necessária?,PagamentoCarne
+carne,PagamentoCarne
+Como posso fazer um carnê?,PagamentoCarne
+quero comprar no crediario,PagamentoCarne
+799 reias com meu cartão o limite e de 400 e divertir os 300 no carne se tinha eu compra onile,PagamentoCarne
+atraso,PagamentoCarne
+Quero saber se posso abrir crediaro pelo aplicativo?,PagamentoCarne
+carnê,PagamentoCarne
+o valor já foi lançado em minha fatura,PagamentoConfirmacao
+já debitou do meu cartão,PagamentoConfirmacao
+já cobrou no meu cartao,PagamentoConfirmacao
+pagamento pendente mas já cobrou,PagamentoConfirmacao
+"comprei no cartão, mas ainda não aprovou",PagamentoConfirmacao
+comprei no boleto mas ainda não recebi nada,PagamentoConfirmacao
+PAGAMENTO,PagamentoConfirmacao
+quanto tempo para compensar o boleto,PagamentoConfirmacao
+cartão de crédito,PagamentoConfirmacao
+Pq o meu pagamento está pendente se creditou do meu cartão?,PagamentoConfirmacao
+Prazo de retirada,PagamentoConfirmacao
+se eu paga o boleto amanha posso retirar amanha mesmo na loja,PagamentoConfirmacao
+quantos dia pra pega o pedido,PagamentoConfirmacao
+Por que fiz uma compra no site e fala pagamento pendente,PagamentoConfirmacao
+meu pedido a forma de pagamento esta pendente por que?,PagamentoConfirmacao
+Quero saber pq a demora de liberar meu pedido pra retirada na loja?,PagamentoConfirmacao
+Fiz meu pedido no sábado e até agora ainda estar com o pagamento pedente,PagamentoConfirmacao
+Atraso do pedido,PagamentoConfirmacao
+Hoje já é o terceiro dia que realizei uma compra no site para retirar na loja e ainda não recebi o e-mail autorizando a retirada,PagamentoConfirmacao
+já veio na minha fatura,PagamentoConfirmacao
+meu pagamento ainda não foi aprovado,PagamentoConfirmacao
+o valor já foi descontado,PagamentoConfirmacao
+por que demora pra aprovar?,PagamentoConfirmacao
+descontou do cartão,PagamentoConfirmacao
+como confirma uma compra?,PagamentoConfirmacao
+por que ainda não liberou a minha compra?,PagamentoConfirmacao
+o pagamento já foi aprovado,PagamentoConfirmacao
+Por que minha compra ainda não foi aprovada?,PagamentoConfirmacao
+estou com problema no site estar dando pagamento pendente nao finaliza,PagamentoConfirmacao
+Quero saber da minha compra pois ainda não chegou nenhuma confirmação,PagamentoConfirmacao
+paguei o produto mais nao conta pago no sistema,PagamentoConfirmacao
+Posso fazer a retirado do meieu pediddo hoje?,PagamentoConfirmacao
+Preciso do produto que comprei e não está constando como pago,PagamentoConfirmacao
+Quanto leva para confirmação de pagamento?,PagamentoConfirmacao
+Aprovação de pagamento,PagamentoConfirmacao
+Confirmação de pagamento,PagamentoConfirmacao
+Quero comprar no site e tirar na loja hoje mesmo,PagamentoConfirmacao
+"Pedido feito na quarta. Ou seja, mais de 72 horas.",PagamentoConfirmacao
+Eu quero saber se o valor foi estornado o meu cartão?,PagamentoConfirmacao
+erro na confirmação do cartao,PagamentoConfirmacao
+De quanto por cento é os juros por atraso ao mês,Pagamentos
+numero de parcelas,Pagamentos
+Cupom de desconto,Pagamentos
+Qual forma de pagamento?,Pagamentos
+cheque,Pagamentos
+Como faço para renegociação de divida,Pagamentos
+Gostaria de negociar uma dívida,Pagamentos
+Tenho um débito e desejo negociar o qu,Pagamentos
+paraiba,Paraiba
+PB,Paraiba
+"PASSEI A COMPRA EM APENAS UMA VEZ, PENSEI QUE TIVESSE COLOCADO EM 10",ParcelaErro
+parcelou em 1x só,ParcelaErro
+parcelado em 10x,ParcelaErro
+não parcelou,ParcelaErro
+Eu parcelei a compra em 10 na hora da compra e quando finalizei saiu em 1 vez pode me ajudar?,ParcelaErro
+Fiz uma compra e não foi parcelado,ParcelaErro
+Patos,Patos
+cadê meu pedido?,PedidoNaoLocalizado
+pq ta com esse status?,PedidoNaoLocalizado
+pq não acha meu pedido?,PedidoNaoLocalizado
+porque não aparece o status do pedido?,PedidoNaoLocalizado
+por que está com status não localizado?,PedidoNaoLocalizado
+PE,Pernambuco
+Pernambuco,Pernambuco
+Piancó,Pianco
+Pianco,Pianco
+Picuí,Picui
+Picui,Picui
+Pombal,Pombal
+Fiu fiu,Positive_Feedback
+Você é bonita,Positive_Feedback
+vc é fera,Positive_Feedback
+Maravilhosa,Positive_Feedback
+Top,Positive_Feedback
+tu é top,Positive_Feedback
+Linda,Positive_Feedback
+Gostei de você,Positive_Feedback
+quando posso pegar meu produto?,PrazoEntregaLoja
+quando vou poder pegar meu produto?,PrazoEntregaLoja
+quando vou poder ir pegar meu produto na loja?,PrazoEntregaLoja
+quando posso retirar meu produto?,PrazoEntregaLoja
+Quando posso ir pegar meu produto na loja??,PrazoEntregaLoja
+Qual o prazo para retirada de pedido na loja,PrazoEntregaLoja
+Prazo para retirada,PrazoEntregaLoja
+"Preciso que solucionem meu problema fiz uma compra vocês mandaram e-mail dizendo que o produto está pronto para retirada na loja mais não está ,já passou do prazo",PrazoEntregaLoja
+O pq da demora para retirada na loja,PrazoEntregaLoja
+Meu pedido está disponível?,PrazoEntregaLoja
+já posso ir pegar meu produto?,PrazoEntregaLoja
+Com quanto tempo posso retirar na loja após confirmação de pagamento,PrazoEntregaLoja
+meu pedido ainda não chegou,PrazoEntregaLoja
+Já posso ir retirar meu produto na loja?,PrazoEntregaLoja
+prazo de retirada,PrazoEntregaLoja
+Me deram 3 dias úteis,PrazoEntregaLoja
+pegar meu produto,PrazoEntregaLoja
+Só posso tira o produto quando receber a mensagem,PrazoEntregaLoja
+Só queria saber o dia de pegar o produto,PrazoEntregaLoja
+Essa data 11/02/2020 seve como retirada,PrazoEntregaLoja
+já posso pegar meu pedido?,PrazoEntregaLoja
+Quero saber quando eu posso fazer a retirada!,PrazoEntregaLoja
+Comprei um produto dia 8 de Janeiro e até agora não chegou a loja para retirada,PrazoEntregaLoja
+quando posso ir na loja pegar?,PrazoEntregaLoja
+posso ir pegar meu produto na loja?,PrazoEntregaLoja
+pegar meu produto na loja,PrazoEntregaLoja
+No caso já posso retirar na loja?,PrazoEntregaLoja
+Qual o prazo para entregar na minha residência?,PrazoEntregaResidencia
+qual o prazo da entrega?,PrazoEntregaResidencia
+Quando meu produto vai chegar?,PrazoEntregaResidencia
+quando vou receber meu produto?,PrazoEntregaResidencia
+Quanto tempo demora para entregar?,PrazoEntregaResidencia
+meu produto chega quando?,PrazoEntregaResidencia
+Meu produto não chegou,PrazoEntregaResidencia
+Vocês fazem entrega ?,PrazoEntregaResidencia
+quero saber que dia vou receber meu produto,PrazoEntregaResidencia
+Minha entrega ainda não chegou,PrazoEntregaResidencia
+Quanto tempo demora pra entregar?,PrazoEntregaResidencia
+Minha entrega está atrasada,PrazoEntregaResidencia
+promocao,Promocoes
+Queria saber se tem alguma promoção de bicicleta feminina para comprar em João Pessoa no shopping Mangabeira,Promocoes
+Sabe se as promoções são válidas para todas a lojas do armazém Paraíba,Promocoes
+encarte,Promocoes
+Os mesmo produtos que estao promocionados no site encontro na loja mas próxima? Ou as ofertas e so do site ?,Promocoes
+Promoções,Promocoes
+promoção,Promocoes
+Folheto,Promocoes
+como quem eu falo para fazer parceria com vcs?,PublicidadePropaganda
+marketing da empresa,PublicidadePropaganda
+divulgação publicitária com vocês,PublicidadePropaganda
+publicidade,PublicidadePropaganda
+conseguir uma parceria,PublicidadePropaganda
+"OLá, por gentileza desejo e-mail da área de comrpras para que enviemos apresenta\cão da nossa empresa e produtos.",PublicidadePropaganda
+Queimadas,Queimadas
+quero me cadastrar,RealizarCompra
+Como faço pra comprar um rack e fogão pelo cartão hipercard,RealizarCompra
+Estou tentando finalizar uma compra mas não tô conseguindo,RealizarCompra
+vcs tem site?,RealizarCompra
+tem loja online?,RealizarCompra
+Quero cadastrar um endereço de entrega,RealizarCompra
+como comprar no site?,RealizarCompra
+Nao sei como pra,RealizarCompra
+Estou querendo comprar uma fruteira pelo o aplicativo,RealizarCompra
+quero fazer compra,RealizarCompra
+Comprar,RealizarCompra
+Compras,RealizarCompra
+não consigo me cadastrar,RealizarCompra
+quero comprar online,RealizarCompra
+Quero compra na entenet e pega na loja,RealizarCompra
+Como acessar minha conta no Armazém Paraíba,RealizarCompra
+saite,RealizarCompra
+como comprar?,RealizarCompra
+Adicionar endereço de entrega,RealizarCompra
+Como eu faço meu cadastro,RealizarCompra
+como faço pra fazer uma compra?,RealizarCompra
+quero efetuar uma compra,RealizarCompra
+Queria trocar a pessoa que vai retirar o pedido na loja,RetiradaTerceiro
+Moro em João Pessoa e gostaria de comprar um fogão para uma pessoa que mora em Sape,RetiradaTerceiro
+outra pessoa,RetiradaTerceiro
+minha duvida é a seguinte no site cadastrei o meu pai pra ir buscar é só ele chegar lá com documento oficial com foto que ele consegue retirar meu produto?,RetiradaTerceiro
+outra pessoa vai pegar,RetiradaTerceiro
+retirada por terceiro,RetiradaTerceiro
+botar nome,RetiradaTerceiro
+Posso fazer compra em Barreiras e mandar alguém retirar na loja?,RetiradaTerceiro
+Quero mudar quem vai receber o produto,RetiradaTerceiro
+Se alguém pode pegar meu produto com o número da identidade,RetiradaTerceiro
+como faço pra outra pessoa ir pegar meu produto,RetiradaTerceiro
+Santa Rita,Santa_Rita
+Sapé,Sape
+Sape,Sape
+Não estou conseguindo colocar meu endereço na minha conta,Senha
+senha,Senha
+Recuperar minha senha,Senha
+Duvidas,Senha
+alterar meu cadastro,Senha
+não lembro minha senha,Senha
+Esqueci minha senha,Senha
+Solânea,Solanea
+Solanea,Solanea
+Soledade,Soledade
+Sousa,Sousa
+TrueStatus,Status
+como está o meu pedido,Status_Pedido
+status do meu pedido,Status_Pedido
+Confirmação de Pagamento,Status_Pedido
+como tá o status do pedido,Status_Pedido
+Quero Confirmar o meu pagamento,Status_Pedido
+erro no pagamento,Status_Pedido
+Pagamento,Status_Pedido
+status do pedido,Status_Pedido
+Encerrar,Terminar
+terminar,Terminar
+Terminei,Terminar
+Timbaúba,Timbauba
+Timbauba,Timbauba
+trabalhar,TrabalheConosco
+Vagas para Jovem aprendiz,TrabalheConosco
+Fazer parte da família armazém paraiba,TrabalheConosco
+curriculo,TrabalheConosco
+manda curriclum,TrabalheConosco
+oportunidade,TrabalheConosco
+contratacao,TrabalheConosco
+trabalhe conosco,TrabalheConosco
+quero um emprego,TrabalheConosco
+contratação,TrabalheConosco
+quero trabalhar no armazem,TrabalheConosco
+preciso de emprego,TrabalheConosco
+Sobre vagas de empregos,TrabalheConosco
+cancelar comprar,TrocaeDevolucao
+produto ta com defeeitoo,TrocaeDevolucao
+estou com problema no meu produto,TrocaeDevolucao
+quero cancelar minha compra,TrocaeDevolucao
+quero trocar meu celular,TrocaeDevolucao
+tou com meu produto quebrado,TrocaeDevolucao
+trincado,TrocaeDevolucao
+troca de produto,TrocaeDevolucao
+Troca e Devolucao,TrocaeDevolucao
+quebrou,TrocaeDevolucao
+"ei, meu produto chegou quebrado",TrocaeDevolucao
+desistir da compra,TrocaeDevolucao
+não quero mais,TrocaeDevolucao
+minha televisão apresentou defeito,TrocaeDevolucao
+Meu produto veio faltando uma peça,TrocaeDevolucao
+meu produto está com defeito,TrocaeDevolucao
+problema no produto,TrocaeDevolucao
+defeito no produto,TrocaeDevolucao
+cancelar pedido,TrocaeDevolucao
+Produto Avariado,TrocaeDevolucao
+produto chegou com defeito,TrocaeDevolucao
+produto com defeito,TrocaeDevolucao
+produto quebrado,TrocaeDevolucao
+como excluir meu pedido?,TrocaeDevolucao
+defeito,TrocaeDevolucao
+Comprei um produto na cor preta e chegou um vermelho,TrocaeDevolucao
+como faço para cancelar minha compra?,TrocaeDevolucao
+"meu produto chegou com defeito, o que fazer?",TrocaeDevolucao
+meu celular deu defeito,TrocaeDevolucao
+"me ajude com meu produto, deu defeito",TrocaeDevolucao
+já veio quebrado,TrocaeDevolucao
+Cancelar forma de pagamento pois fiz em 12 vezes e só passou de 1 vez,TrocaeDevolucao
+Reembolso,TrocaeDevolucao
+desistência,TrocaeDevolucao
+"Comprei uma smartv com retirada na loja, ainda não fui pegar, mas queria trocar.",TrocaeDevolucao
+estornar a compra,TrocaeDevolucao
+desmanchar a compra,TrocaeDevolucao
+caiu e quebrou,TrocaeDevolucao
+TrueConsultaHumano,TrueConsultaHumano
+crédito,ValeCompra
+nota de crédito,ValeCompra
+vale compra,ValeCompra
+NCC,ValeCompra
+TrueBoleto,Valida_Boleto
+TrueNota,Valida_Nota_Fiscal

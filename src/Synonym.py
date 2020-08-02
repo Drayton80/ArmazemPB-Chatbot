@@ -2,6 +2,7 @@ import re
 import os
 import sys
 import random
+import spacy
 import pandas as pd
 
 sys.path.append(os.path.abspath(os.path.join('..')))
@@ -9,6 +10,8 @@ sys.path.append(os.path.abspath(os.path.join('..')))
 
 class Synonym:
     def __init__(self, synonyms_file_path: str):
+        self._nlp = spacy.load('pt_core_news_sm')
+
         if '.csv' in synonyms_file_path[-4:]:
             self.df = pd.read_csv(synonyms_file_path)
         else:
